@@ -1,4 +1,4 @@
-## Oiii eu sou a Olum Tanrisi, criadora de conteúdo de programação e tecnologia!
+## Hi I'm Olum Tanrisi, programming student!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Olum-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
