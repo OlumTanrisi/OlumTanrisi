@@ -32,3 +32,10 @@ I'm João, a 19 yers old programming student from Brazil🇧🇷!
   <a href = "mailto:subjvieira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
+
+##
+
+<h1 align="center">
+  <img src="https://imgur.com/RFUEG6W" width="900" height="400"/>
+</h1>
+
