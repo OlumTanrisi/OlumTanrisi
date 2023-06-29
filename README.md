@@ -1,4 +1,5 @@
-## Hi 
+## Hi! 👋
+
 I'm João, a 19 yers old programming student from Brazil🇧🇷!
 
 <!--## Stats 
