@@ -36,6 +36,5 @@ I'm João, a 19 yers old programming student from Brazil🇧🇷!
 ##
 
 <h1 align="center">
-  <img src="https://imgur.com/RFUEG6W" width="900" height="400"/>
+  <img src="https://imgur.com/RFUEG6W.gif" width="900" height="450" />
 </h1>
-
