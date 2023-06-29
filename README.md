@@ -1,4 +1,5 @@
-## Hi I'm João, programming student!
+## Hi 
+I'm João, a 19 yers old programming student from Brazil🇧🇷!
 
 <!--## Stats 
 ![OlumTanrisi](https://github-readme-stats.vercel.app/api?username=OlumTanrisi&show_icons=true&theme=tokyonight) -->
