@@ -2,8 +2,8 @@
 
 I'm João, a 20 yers old programming student from Brazil 🇧🇷!
 
-## Stats 
-![OlumTanrisi](https://github-readme-stats.vercel.app/api?username=OlumTanrisi&show_icons=true&theme=tokyonight)
+<!-- ## Stats 
+![OlumTanrisi](https://github-readme-stats.vercel.app/api?username=OlumTanrisi&show_icons=true&theme=tokyonight)-->
 
 <div align="center">
   <a href="https://github.com/gDorigon">
