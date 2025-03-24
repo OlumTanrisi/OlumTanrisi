@@ -6,7 +6,7 @@ I'm João, a 20 yers old, programming student from Brazil 🇧🇷!
 ![OlumTanrisi](https://github-readme-stats.vercel.app/api?username=OlumTanrisi&show_icons=true&theme=tokyonight)-->
 
 <div align="center">
-  <a href="https://github.com/gDorigon">
+  <a href="https://github.com/OlumTanrisi">
   <img height="130px" weight="110px" src="https://github-readme-stats.vercel.app/api?username=OlumTanrisi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="130px" weight="90px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlumTanrisi&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
