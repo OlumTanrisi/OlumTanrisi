@@ -57,6 +57,12 @@
 
 ---
 
+## 📈 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OlumTanrisi&theme=tokyo-night&hide_border=true"/>
+
+---
+
 ## 🔥 Projetos em Destaque
 
 ### 🚀 Sistema Web (SaaS em desenvolvimento)
