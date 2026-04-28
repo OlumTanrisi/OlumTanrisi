@@ -63,7 +63,7 @@
 
 ---
 
-## 🔥 Projetos em Destaque
+## 🔥 Projetos
 
 ### 🚀 Sistema Web (SaaS em desenvolvimento)
 
@@ -71,7 +71,7 @@
 * Arquitetura focada em escalabilidade
 * Integração com A.I
 
-### ⚙️ Automação Inteligente
+### ⚙️ Automação Inteligente (Em Desenvolvimento)
 
 * Redução de tarefas manuais
 * Aumento de eficiência operacional
