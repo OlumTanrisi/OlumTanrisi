@@ -71,11 +71,12 @@
 * Arquitetura focada em escalabilidade
 * Integração com A.I
 
-### ⚙️ Automação Inteligente (Em Desenvolvimento)
+### ⚙️ Processos Rescisão (Em Produção)
 
-* Redução de tarefas manuais
+* Gestão de processos
 * Aumento de eficiência operacional
-* Dashboards para financeiro
+* Centralização, organização e lembretes
+* Controle de prazos
 
 ### 🤖 Sistema de Vistoria (Em Desenvolvimento)
 
